@@ -7,7 +7,6 @@ Kayıtlı başlıklar listelenebilir ve doğru şifre ile çözülebilir.
 ## 📦 Özellikler
 
 - Metin tabanlı kullanıcı arayüzü
-- Notlar `mysecret.txt` içinde şifreli olarak saklanır
 - Şifrelenmiş mesajlar sadece doğru anahtar ile çözülebilir
 - Docker desteği ile platform bağımsız çalıştırılabilir
 
